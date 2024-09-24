@@ -95,9 +95,9 @@ var typed = new Typed(".typing-text", {
 // <!-- typed js effect ends -->
 
 // <!-- tilt js effect starts -->
-VanillaTilt.init(document.querySelectorAll(".tilt"), {
-    max: 15,
-});
+// VanillaTilt.init(document.querySelectorAll(".tilt"), {
+//     max: 15,
+// });
 // <!-- tilt js effect ends -->
 
 // disable developer mode
